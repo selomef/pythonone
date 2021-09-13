@@ -38,8 +38,7 @@ def welcome_assignment_answers(question):
        return(answer)
  else:
     return(0)
-question = ("What is the MD5 hashing value to the following message: 'NYU Computer Networking' - Use MD5 hash generator and use the answer in your code")
-print(welcome_assignment_answers(question))
+
 
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
